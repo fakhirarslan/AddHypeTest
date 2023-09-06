@@ -1,3 +1,15 @@
+# Setup backend
+
+You can find the backend code in the `backend` folder. To run the backend, you need to:
+
+1. Oper terminal
+2. cd backend
+3. run `npm install`
+4. run `npm run dev`
+
+Make sure you have `.env` file content to make sure the DB connection is established. Once the backend is running you can use postman to test out the APIs.
+The server will run on `http://localhost:3001`.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
